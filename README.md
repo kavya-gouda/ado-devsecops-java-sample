@@ -1,5 +1,7 @@
 # ado-devsecops-java-sample
 
+<img width="553" height="226" alt="image" src="https://github.com/user-attachments/assets/51deffc7-9a0e-4a88-bfc4-3632124522e9" />
+
 # 🚀 java-devsecops-azure: End-to-End DevSecOps for a Java Project
 
 This repository contains the source code and Azure DevOps pipeline configuration files (YAML) for implementing a comprehensive **DevSecOps** pipeline for a Java web application. The pipeline integrates industry-standard security tools across the Continuous Integration (CI) and Continuous Delivery (CD) process to "Shift Left" security.
